@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         urlGet
+// @name         url_get
 // @namespace    https://www.github.com/ChristopherTopalian/Topalian_JavaScript_UserScripts
 // @version      1.0
 // @description  gets the URL of the Webpage and shows it using alert and console.log
